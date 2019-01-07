@@ -7,3 +7,8 @@ Sometime I forget to check my cities air quality or buying a mask.
 
 To aid this difficulty, I started to design this project.
 
+
+
+Why = due to the airpolution, it is important to protect our lungs.
+How = building system including air polution status checker, alaram, mask, and dispenser.
+What = Dispenser for first to aid the forgetting these days people.
