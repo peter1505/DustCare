@@ -1,0 +1,63 @@
+Final goal
+ = making a system which aid to wear mask.
+
+
+1) need to check air quality
+  - place to find air quality data
+   = 
+  - method to provide info to user
+ 
+@ Reference program and website
+
+미세미세 앱
+
+In U.S., NOAA offer a free data
+ 
+ 
+2) Dispenser
+ - how to connect with user device
+  = bloothe or gps..?
+  = maybe nfc scan..?
+  
+ - what program and hardware to use
+  = 
+  
+ - what type of mask will I use for this project
+  = varying size of mask == harder to grab each one.
+  = 
+  
+ - way to dispense
+  =
+  
+ - how to grab a mask
+ =
+ 
+ - setting up process.
+  = Setting up = both side tape..? (can damage wall paper)
+  = setting up place.
+
+@ Dispenser reference
+
+(1) Holder
+http://loftshop.co.kr/product/detail.html?product_no=7323&cate_no=24&display_group=1
+
+person can grab the mask at the bottom. --> need to grab == inconvinient..? Or maybe this is best way
+
+(2) Acryl dispenser 01
+https://korean.alibaba.com/product-detail/wall-mounted-acrylic-glove-mask-dispenser-holder-1025598406.html
+ = popping out
+
+ 두께 아크릴 상자: 2 미리메터, 3 미리메터, 4 미리메터, 5 미리메터, 8 미리메터, 또는 사용자 정의 두께.
+
+ 재료 아크릴 상자: 고품질 아크릴/플렉시 글라스/루/방풍/플라스틱.
+
+
+(3) Acryl dispenser 01
+https://korean.alibaba.com/product-detail/clear-acrylic-wall-mounted-gown-glove-mask-dispenser-glove-box-dispenser-60525204102.html
+ = popping out
+ 
+크기: 15.75 " x 22.75 " x 5.50 " 깊이 희미한 OD
+
+가운, 장갑 및 마스크 디스펜서 " 트리플 위협 보호 "
+
+
