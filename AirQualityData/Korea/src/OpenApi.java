@@ -9,7 +9,7 @@ import java.net.URL;
             try{
                 String urlstr = "http://openapi.airkorea.or.kr/"
                         + "openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty"
-                        + "?stationName=수내동&dataTerm=month&pageNo=1&numOfRows=10&ServiceKey=SERVICEKEY&ver=1.3";
+                        + "?stationName=수내동&dataTerm=month&pageNo=1&numOfRows=10&ServiceKey=&ver=1.3";
                 URL url = new URL(urlstr);
                 HttpURLConnection urlconnection = (HttpURLConnection) url.openConnection();
                 urlconnection.setRequestMethod("GET");
